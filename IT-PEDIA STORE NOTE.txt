@@ -1,0 +1,14 @@
+====================== TERIMAKASIH TELAH BERBELANJA DI IT-PEDIA =====================
+========================= BERIKUT RINCIAN DETAIL PESANAN ANDA =======================
+Nama pembeli   : Aditya Oryza Mahendra
+Alamat pembeli : cilacap utara
+======================= BARANG YANG ANDA TAMBAHKAN KE KERANJANG =====================
+monitor   2 x Rp.1000000 = Rp.2000000
+=====================================================================================
+Diskon   = 10%
+Ongkir   = Rp.0
+Asuransi = Rp.2500
+=====================================================================================
+Total pembayaran : Rp.1805000
+SISA SALDO ANDA  : Rp.3195000
+=====================================================================================
